@@ -1,0 +1,10 @@
+o
+
+    ø£ïbµ  ã                   @   s$   d Z ddlmZ l (str): The email of the user.
+        password (str): The password of the user.
+        first_name (str): The first name of the user.
+        last_name (str): The last name of the user.
+    Ú N__name__Ú
+__module__Ú__qualname__Ú_doc__ZemailpasswordZ
+first_nameÚ	last_name© r
+   r
