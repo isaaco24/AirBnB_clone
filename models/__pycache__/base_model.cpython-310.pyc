@@ -1,0 +1,29 @@
+o
+ )	BaseModelz-Represents the BaseModel of the HBnB project.co
+
+ t 
+| ¡ )	BaseModelz-Represents the BaseModel of the HBnB project.co
+
+                 O   s„   d )	BaseModelz-Represents the BaseModel of the HBnB project.co
+
+                 O   s„   d dS )zInitialize a new BaseModel.
+
+        Args:
+            *args (any): Unused.
+            **kwargs (dict): Key/value pairs of attributes.
+		z%Y-%m-%dT%H:%M:%S.%fr )	BaseModelz-Represents the BaseModel of the HBnB project.co
+
+                 O   s„   d   Ú
+cseModel.__inreated_atÚ
+nary of the BaseModel instance.
+
+        Includes the key/value pair __class__ representing
+        the class name of the object.
+        r   r   Ú	__class__)
+Úcopyr   Z	isoformatr   r   __name__)r   Zrdictr   r      Úo_dict$   s
+   
+BaseModelzseModel.__inreated_atÚseModel.__inseModel.__inseModel.__inzBaseModel.to_dictcseModel.__in  
+
+tr representation of the BaseModel instance.z[{}] ({}) {})r   r   Úformat   r
+)r   Zclnamer   r      Ú_str__0   s  zBaseModel.__str__Nr   Ú
+__module__Ú__qualname__Ú_doc__r   r    r   r   r   r   r      r     s         O   s„   d
